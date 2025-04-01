@@ -1,89 +1,70 @@
 ---
 layout: cv
-title: Cecil Pendergahst's CV
+title: Zack Pedersen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# **ZACKERY C. PEDERSEN**
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Rexburg, ID | (440) 637-5657  | zackpedersen526@gmail.com |[Linkedin.com/in/zack-pedersen-590784211](https://www.linkedin.com/in/zack-pedersen-590784211/) | [GitHub](https://github.com/Muthrow) (QR Code Below)
 
+## **SOFTWARE ENGINEERING GRADUATE**  
+Team-Based Projects | Test-Driven Development | Data Science | Machine Learning | Software Applications | Microservices
 
-## Currently
+I am a detail-oriented, self-directed learner and versatile team member. I can incorporate and apply new information to get results. I adapt to changing conditions with a resourceful and agile mindset and always seek to add value to each situation. I am passionate about good documentation practices and interested in creating quality software solutions and applying machine learning. Quality code comes from establishing requirements and planning verification before all else.
 
-Standing on the shoulders of giants
+## **EDUCATION & CREDENTIALS**
 
-### Specialized in
+* B.S., Software Engineering, Brigham Young University \- Idaho, Rexburg, Idaho 	(July 2025\)  
+  * Studied application engineering topics including test-driven development, performance testing, documentation,  machine learning, cyber-security, algorithm design, Python, R, C/C++, data science, and software architecture  
+* Certificate of Computer Programming,  Brigham Young University \- Idaho 	(2023)  
+* Certificate of Software Design, Brigham Young University \- Idaho 	(2024)  
+* Certificate of Data Science, Brigham Young University \- Idaho	(2025)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## **STRENGTHS & SKILLS**
 
+| Customer Service Problem Resolution R | Communication Analytical Thinking Data Science and Visualization | Docker/Kubernetes Unit Testing C/C++ | Machine Learning Python Software Design |
+| :---- | :---- | :---- | :---- |
 
-### Research interests
+## **WORK EXPERIENCE**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Vivint Smart Home, Colorado Springs | CO	Summer 2024  
+### **DTH Technician** 
 
+* Installed security systems in customer homes, ensuring clean and quality smart home systems.  
+* Worked with sales team and other technicians to set and achieve goals.   
+* Tracked and managed personal and office inventory.
 
-## Education
+LifeNet Health | Virginia Beach, VA   	Summer 2023  
+### **Programming Analyst Intern**
 
-`1654-1660`
-__The King's School, Grantham.__
+* Selected for intern position from 230 applicants  
+* Part of a development team that designed a microservice B2B database access system  
+* Personally responsible for the design of LNH employee access to hospital electronic medical record systems  
+* Worked with an international scrum team of developers to define project scope and delivered functional code on schedule  
+* Worked with stakeholders throughout the project to ensure results met expectations
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Brigham Young University \- Idaho | Rexburg, ID   	2022-2023  
+### **Recreation Services Associate** 
 
-- Sizar
+* Worked with a team to cover the entire recreational facility  
+* Handle front desk check-ins and recommend specialty items  
+* Manage and inventory equipment and maintain facility equipment
 
-`1667 - death`
-__Trinity College, Cambridge__
+Lowe’s Home Improvement | Apex, NC   	2020-2021, 2023  
+### **Customer Service Associate** 
 
-- Fellow
+* Assisted customers with projects by providing advice and technical know-how in a service-oriented way  
+* Maintained the cleanliness and functionality of my department safely and efficiently
 
+Church of Jesus Christ of Latter-Day Saints | Provo, UT  	2018-2020  
+### **Voluntary Missionary Service** 
 
+* Regularly visited with those we were teaching to build relationships and address specific concerns and problems  
+* Participated in community outreach service programs, assisted and taught members of the local community  
+* Coordinated efforts with local church leadership
 
-## Awards
+	(2025)
 
-`2012`
-President, *Royal Society*, London, UK
+## **AWARDS and RECOGNITION**
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Eagle Scout | Boy Scouts of America (2018)  
+Academic Decathlon | Varsity High Score (2018)
