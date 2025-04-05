@@ -9,9 +9,9 @@ Rexburg, ID | (440) 637-5657 | zackpedersen526@gmail.com | [LinkedIn](https://ww
 
 ## SOFTWARE ENGINEERING GRADUATE
 
-Team-Based Projects | Test-Driven Development | Data Science | Machine Learning | Software Applications | Microservices
+_Team-Based Projects | Test-Driven Development | Data Science | Machine Learning | Software Applications | Microservices_
 
-I am a detail-oriented, self-directed learner and versatile team member. I can incorporate and apply new information to get results. I adapt to changing conditions with a resourceful and agile mindset and always seek to add value to each situation. I am passionate about good documentation practices and interested in creating quality software solutions and applying machine learning. Quality code comes from establishing requirements and planning verification before all else.
+>I am a detail-oriented, self-directed learner and versatile team member. I can incorporate and apply new information to get results. I adapt to changing conditions with a resourceful and agile mindset and always seek to add value to each situation. I am passionate about good documentation practices and interested in creating quality software solutions and applying machine learning. Quality code comes from establishing requirements and planning verification before all else.
 
 ## EDUCATION & CREDENTIALS
 
@@ -29,9 +29,14 @@ I am a detail-oriented, self-directed learner and versatile team member. I can i
   Brigham Young University - Idaho (2025)
 
 ## STRENGTHS & SKILLS
+## STRENGTHS & SKILLS
 
-| **Customer Service** | **Problem Resolution** | **R** | **Communication** | **Analytical Thinking** | **Data Science & Visualization** | **Docker/Kubernetes** | **Unit Testing** | **C/C++** | **Machine Learning** | **Python** | **Software Design** |
-|----------------------|------------------------|-------|-------------------|-------------------------|----------------------------------|-----------------------|------------------|----------|----------------------|------------|---------------------|
+| | | | |
+|------|------|------|---|
+| Data Science and Visualization | Docker/Kubernetes | Machine Learning | Software Design |
+| SQL | Python | C/C++ | R |
+| Customer Service | Problem Resolution Organization | Communication | Analytical Thinking |
+
 
 ## WORK EXPERIENCE
 
