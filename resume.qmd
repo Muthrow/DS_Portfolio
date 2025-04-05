@@ -2,69 +2,71 @@
 layout: cv
 title: Zack Pedersen's CV
 ---
-# **ZACKERY C. PEDERSEN**
 
-Rexburg, ID | (440) 637-5657  | zackpedersen526@gmail.com |[Linkedin.com/in/zack-pedersen-590784211](https://www.linkedin.com/in/zack-pedersen-590784211/) | [GitHub](https://github.com/Muthrow) (QR Code Below)
+# Zackery C. Pedersen
 
-## **SOFTWARE ENGINEERING GRADUATE**  
+Rexburg, ID | (440) 637-5657 | zackpedersen526@gmail.com | [LinkedIn](https://www.linkedin.com/in/zack-pedersen-590784211/) | [GitHub](https://github.com/Muthrow)
+
+## SOFTWARE ENGINEERING GRADUATE
+
 Team-Based Projects | Test-Driven Development | Data Science | Machine Learning | Software Applications | Microservices
 
 I am a detail-oriented, self-directed learner and versatile team member. I can incorporate and apply new information to get results. I adapt to changing conditions with a resourceful and agile mindset and always seek to add value to each situation. I am passionate about good documentation practices and interested in creating quality software solutions and applying machine learning. Quality code comes from establishing requirements and planning verification before all else.
 
-## **EDUCATION & CREDENTIALS**
+## EDUCATION & CREDENTIALS
 
-* B.S., Software Engineering, Brigham Young University \- Idaho, Rexburg, Idaho 	(July 2025\)  
-  * Studied application engineering topics including test-driven development, performance testing, documentation,  machine learning, cyber-security, algorithm design, Python, R, C/C++, data science, and software architecture  
-* Certificate of Computer Programming,  Brigham Young University \- Idaho 	(2023)  
-* Certificate of Software Design, Brigham Young University \- Idaho 	(2024)  
-* Certificate of Data Science, Brigham Young University \- Idaho	(2025)
+- **B.S., Software Engineering**  
+  Brigham Young University - Idaho, Rexburg, ID (Expected July 2025)  
+  Studied application engineering topics including test-driven development, performance testing, documentation, machine learning, cyber-security, algorithm design, Python, R, C/C++, data science, and software architecture.
 
-## **STRENGTHS & SKILLS**
+- **Certificate of Computer Programming**  
+  Brigham Young University - Idaho (2023)
 
-| Customer Service Problem Resolution R | Communication Analytical Thinking Data Science and Visualization | Docker/Kubernetes Unit Testing C/C++ | Machine Learning Python Software Design |
-| :---- | :---- | :---- | :---- |
+- **Certificate of Software Design**  
+  Brigham Young University - Idaho (2024)
 
-## **WORK EXPERIENCE**
+- **Certificate of Data Science**  
+  Brigham Young University - Idaho (2025)
 
-Vivint Smart Home, Colorado Springs | CO	Summer 2024  
-### **DTH Technician** 
+## STRENGTHS & SKILLS
 
-* Installed security systems in customer homes, ensuring clean and quality smart home systems.  
-* Worked with sales team and other technicians to set and achieve goals.   
-* Tracked and managed personal and office inventory.
+| **Customer Service** | **Problem Resolution** | **R** | **Communication** | **Analytical Thinking** | **Data Science & Visualization** | **Docker/Kubernetes** | **Unit Testing** | **C/C++** | **Machine Learning** | **Python** | **Software Design** |
+|----------------------|------------------------|-------|-------------------|-------------------------|----------------------------------|-----------------------|------------------|----------|----------------------|------------|---------------------|
 
-LifeNet Health | Virginia Beach, VA   	Summer 2023  
-### **Programming Analyst Intern**
+## WORK EXPERIENCE
 
-* Selected for intern position from 230 applicants  
-* Part of a development team that designed a microservice B2B database access system  
-* Personally responsible for the design of LNH employee access to hospital electronic medical record systems  
-* Worked with an international scrum team of developers to define project scope and delivered functional code on schedule  
-* Worked with stakeholders throughout the project to ensure results met expectations
+### Vivint Smart Home, Colorado Springs, CO  
+**DTH Technician** (Summer 2024)  
+- Installed security systems in customer homes, ensuring clean and quality smart home systems.  
+- Collaborated with the sales team and other technicians to set and achieve goals.  
+- Tracked and managed personal and office inventory.
 
-Brigham Young University \- Idaho | Rexburg, ID   	2022-2023  
-### **Recreation Services Associate** 
+### LifeNet Health, Virginia Beach, VA  
+**Programming Analyst Intern** (Summer 2023)  
+- Selected for the intern position from 230 applicants.  
+- Contributed to a development team designing a microservice B2B database access system.  
+- Designed employee access to hospital electronic medical record systems.  
+- Collaborated with an international scrum team to define project scope and deliver functional code on schedule.  
+- Engaged with stakeholders throughout the project to ensure results met expectations.
 
-* Worked with a team to cover the entire recreational facility  
-* Handle front desk check-ins and recommend specialty items  
-* Manage and inventory equipment and maintain facility equipment
+### Brigham Young University - Idaho, Rexburg, ID  
+**Recreation Services Associate** (2022–2023)  
+- Worked with a team to cover the entire recreational facility.  
+- Handled front desk check-ins and recommended specialty items.  
+- Managed and inventoried equipment and maintained facility operations.
 
-Lowe’s Home Improvement | Apex, NC   	2020-2021, 2023  
-### **Customer Service Associate** 
+### Lowe’s Home Improvement, Apex, NC  
+**Customer Service Associate** (2020–2021, 2023)  
+- Assisted customers with projects by providing advice and technical know-how in a service-oriented manner.  
+- Maintained the cleanliness and functionality of the department safely and efficiently.
 
-* Assisted customers with projects by providing advice and technical know-how in a service-oriented way  
-* Maintained the cleanliness and functionality of my department safely and efficiently
+### Church of Jesus Christ of Latter-Day Saints, Provo, UT  
+**Voluntary Missionary Service** (2018–2020)  
+- Regularly engaged with community members to build relationships and address specific concerns.  
+- Participated in community outreach programs, assisting and teaching local community members.  
+- Coordinated efforts with local church leadership.
 
-Church of Jesus Christ of Latter-Day Saints | Provo, UT  	2018-2020  
-### **Voluntary Missionary Service** 
+## AWARDS & RECOGNITION
 
-* Regularly visited with those we were teaching to build relationships and address specific concerns and problems  
-* Participated in community outreach service programs, assisted and taught members of the local community  
-* Coordinated efforts with local church leadership
-
-	(2025)
-
-## **AWARDS and RECOGNITION**
-
-Eagle Scout | Boy Scouts of America (2018)  
-Academic Decathlon | Varsity High Score (2018)
+- **Eagle Scout** — Boy Scouts of America (2018)  
+- **Academic Decathlon** — Varsity High Score (2018)
